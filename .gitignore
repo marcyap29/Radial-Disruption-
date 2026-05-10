@@ -1,0 +1,25 @@
+# Downloaded data and outputs — never commit these
+rdf_validation/cache/
+rdf_validation/output/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo

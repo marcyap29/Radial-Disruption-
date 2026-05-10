@@ -1,0 +1,22 @@
+role,seniority,expert_rdf_score
+Software Developer,Junior,8.5
+Software Developer,Mid,7.0
+Software Developer,Senior,4.0
+Computer Programmer,Junior,9.0
+Computer Programmer,Mid,7.5
+Computer Programmer,Senior,5.5
+Data Scientist / ML Engineer,Junior,7.5
+Data Scientist / ML Engineer,Mid,5.5
+Data Scientist / ML Engineer,Senior,3.0
+Web Developer,Junior,8.5
+Web Developer,Mid,7.0
+Web Developer,Senior,4.5
+DevOps / Site Reliability Engineer,Junior,7.0
+DevOps / Site Reliability Engineer,Mid,5.5
+DevOps / Site Reliability Engineer,Senior,3.0
+Data Engineer,Junior,7.5
+Data Engineer,Mid,6.0
+Data Engineer,Senior,3.5
+QA / Test Engineer,Junior,9.0
+QA / Test Engineer,Mid,7.5
+QA / Test Engineer,Senior,5.0
